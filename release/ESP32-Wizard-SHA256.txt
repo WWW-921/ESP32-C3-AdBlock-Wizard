@@ -1,0 +1,2 @@
+fbf056a3ffa5838f332fb9b90660047be8d8d63e89513541d40eef9ae3d8a50f  ESP32-AdBlock-Wizard.exe
+c09efc7c32675f4e645626472fad102d84e9d20f5c4a9fc5de3ba1e855468f49  ESP32-Wizard-Source.zip

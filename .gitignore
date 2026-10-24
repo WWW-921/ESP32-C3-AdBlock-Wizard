@@ -1,0 +1,17 @@
+# Private local archives: personal credentials and original flash backups
+/local-history/
+/.venv/
+/build/
+/payload.res
+**/.pio/
+**/__pycache__/
+*.pyc
+*.o
+*.ppu
+*.a
+*.log
+.env
+.env.*
+# Only the reviewed generic firmware-source/src/secrets.h is distributable.
+secrets.local.h
+*-private.*

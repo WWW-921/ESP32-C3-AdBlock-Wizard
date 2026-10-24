@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "chip": "ESP32-C3",
+  "flash_bytes": 4194304,
+  "mode": "dio",
+  "frequency": "40m",
+  "domains": 119631,
+  "images": [
+    {
+      "file": "bootloader.bin",
+      "offset": 0,
+      "sha256": "730ebc2d91ac2b53d3eb5aba89312057575e4ea4c7b86c1a83ae3c1f6a46e172"
+    },
+    {
+      "file": "partitions.bin",
+      "offset": 32768,
+      "sha256": "3ecf78dbbb7bc8396e248a34a42e3665a7da6bc7b975c7aba98587d46ceaf604"
+    },
+    {
+      "file": "boot_app0.bin",
+      "offset": 57344,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0"
+    },
+    {
+      "file": "firmware.bin",
+      "offset": 65536,
+      "sha256": "fdfd2ff5c314a182d5b2d507b530d9520b777ee375ad4cb1243455b9ca29d251"
+    },
+    {
+      "file": "littlefs.bin",
+      "offset": 3080192,
+      "sha256": "9ffba6316a32d2827504915ba4431bdcca2153f513f160d60ace42970ef7aa55"
+    }
+  ]
+}
